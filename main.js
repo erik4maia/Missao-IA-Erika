@@ -5,67 +5,67 @@
 
 const perguntas = [
     {
-        enunciado: "Pergunta?",
+        enunciado: "Qual a abertura mais usada no xadez atualmente?",
         alternativas: [
             {
-                texto: " Texto/resposta",
-                afirmacao: " Afirmação ",
+                texto: " Abertura Ruy Lopez (Espanhola)",
+                afirmacao: " Oferece um equilíbrio entre ataque e defesa, dando oportunidades para jogo posicional. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Abertura Siciliana ",
+                afirmacao: " Tem como objetivo desequilibrar o jogo, evitando as linhas simétricas e levando a um jogo assimétrico ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Qual a jogada que proporciona um mate mais rápido?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Mate do Louco (Fool’s Mate) ",
+                afirmacao: "Serve para mostrar a importância de proteger o rei e não abrir as diagonais perigosamente. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Mate do Pastor (Scholar’s Mate) ",
+                afirmacao: "  Ensina a importância de defender os pontos fracos e o valor do desenvolvimento rápido.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: "  Qual o maior torneio de xadrez atualmente?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Tata Steel Chess Tournament ",
+                afirmacao: " Reúne os melhores jogadores do mundo para competir em um formato de todos contra todos.",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Grand Chess Tour ",
+                afirmacao: " Reúne os melhores jogadores do mundo em partidas rápidas, clássicas e blitz. ",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " Qual a peça mais usadas durante as partidas?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Dama ",
+                afirmacao: " A peça mais poderosa, que pode se mover em qualquer direção e quantas casas quiser, sendo fundamental para ataques e defesa. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Peão ",
+                afirmacao: " Essencial para controlar o centro do tabuleiro, abrir caminhos para outras peças e criar estruturas estratégicas.",
             }
         ]
     },
     {
-        enunciado: " Pergunta?",
+        enunciado: " No xadrez, controlar o centro do tabuleiro (as casas d4, d5, e4 e e5) é tão importante para uma boa estratégia?",
         alternativas: [
             {
-                texto: " Texto/resposta ",
-                afirmacao: "Afirmação",
+                texto: " Sim.",
+                afirmacao: "Controlar o centro do tabuleiro no xadrez é crucial porque permite uma maior mobilidade das peças, maior controle do jogo e maior capacidade de atacar. ",
             },
             {
-                texto: " Texto/resposta ",
-                afirmacao: " Afirmação ",
+                texto: " Não ",
+                afirmacao: " Controlar o centro no xadrez não é importante, já que você pode atacar diretamente pelas bordas do tabuleiro e criar uma estratégia com peças mais distantes. ",
             }
         ]
     },
